@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -155,9 +156,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
