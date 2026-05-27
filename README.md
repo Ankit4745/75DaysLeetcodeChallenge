@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Sorting
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
