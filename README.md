@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## String
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0621-task-scheduler) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
