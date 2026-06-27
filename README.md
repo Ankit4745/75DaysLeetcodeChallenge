@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -479,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
