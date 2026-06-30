@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
