@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
