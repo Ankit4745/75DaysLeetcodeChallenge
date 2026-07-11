@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Interactive
 |  |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
