@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## String Matching
 |  |
 | ------- |
