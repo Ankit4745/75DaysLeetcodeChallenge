@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Union-Find
 |  |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Geometry
 |  |
