@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0621-task-scheduler) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
