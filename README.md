@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Geometry
