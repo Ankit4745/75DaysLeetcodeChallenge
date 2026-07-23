@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-find-the-highest-altitude](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
