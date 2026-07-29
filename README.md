@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Linked List
 |  |
 | ------- |
