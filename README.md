@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -572,4 +575,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
