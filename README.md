@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3731-find-missing-elements) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
