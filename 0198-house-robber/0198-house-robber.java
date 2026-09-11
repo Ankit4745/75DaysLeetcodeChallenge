@@ -1,14 +1,18 @@
 class Solution {
-    public int rob(int[] nums) { 
-        int even =0;
-        int odd =0;
-        for(int i = 0; i < nums.length; i++){
-            int take = odd + nums[i];
-            int skip = even;
-            int current = Math.max(take , skip );
-            odd = even;
-            even = current;
-        }
-        return even;
+
+    public int rec(int[] nums,int idx, int[] dp){
+        if(idx >= nums.length) return 0;
+        if(dp[idx] != -1) return dp[idx];
+        int st = nums[idx] + rec(nums,idx+2,dp);
+        int sk = rec(nums,idx+1,dp);
+        return dp[idx] = Math.max(st,sk);
     }
-}
+    public int rob(int[] nums) { 
+      
+      int[] dp = new int[nums.length];
+      Arrays.fill(dp,-1);
+      return rec(nums,0,dp);
+
+
+    }
+    }
