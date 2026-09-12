@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
@@ -630,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
