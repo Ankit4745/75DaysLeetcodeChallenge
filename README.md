@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2615-sum-of-distances](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2615-sum-of-distances](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [2615-sum-of-distances](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
