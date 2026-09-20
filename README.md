@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
 | ------- |
