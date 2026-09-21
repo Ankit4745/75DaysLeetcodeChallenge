@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
