@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Greedy
 |  |
 | ------- |
