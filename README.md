@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3731-find-missing-elements) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
