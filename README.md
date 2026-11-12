@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
