@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit4745/75DaysLeetcodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
